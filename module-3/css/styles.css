@@ -59,7 +59,7 @@ div p {
   color: #626262;
   font-family: "Playfair Display";
   font-size: 14px;
-  font-weight: 420;
+  font-weight: 400;
   line-height: 24px;
   text-transform: none;
 }
@@ -68,7 +68,7 @@ p {
   color: #b4ad9e;
   font-family: Ubuntu;
   font-size: 14px;
-  font-weight: 350;
+  font-weight: 300;
   text-transform: uppercase;
 }
 
@@ -81,7 +81,7 @@ h2 {
   color: #626262;
   font-family: "Playfair Display";
   font-size: 24px;
-  font-weight: 350;
+  font-weight: 400;
 }
 
 button {
