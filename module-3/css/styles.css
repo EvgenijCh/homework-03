@@ -59,6 +59,7 @@ div p {
   color: #626262;
   font-family: "Playfair Display";
   font-size: 14px;
+  font-weight: 420;
   line-height: 24px;
   text-transform: none;
 }
@@ -67,7 +68,7 @@ p {
   color: #b4ad9e;
   font-family: Ubuntu;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 350;
   text-transform: uppercase;
 }
 
