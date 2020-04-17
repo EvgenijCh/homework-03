@@ -34,25 +34,24 @@ li a:hover {
 }
 
 .content {
-  width: 956px;
+  width: 960px;
   margin: 0px auto;
   padding-top: 0px;
-  padding-left: 128px;
+  padding-left: 150px;
 }
 
 .block {
   display: inline-block;
-  width: 416px;
+  width: 420px;
 }
 
 .block {
-  margin-right: 60px;
-  margin-bottom: 68px;
-
+  margin-bottom: 132px;
+  margin-right: 58px;
 }
 
 .block :nth-child(even) {
-  margin: 0px;
+  margin-right: 0px;
 }
 
 div p {
