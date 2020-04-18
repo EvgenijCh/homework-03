@@ -1,14 +1,15 @@
 body,
 p,
-button,
-a {
+button {
   font-family: "Playfair Display", serif;
   font-style: 14px;
   font-weight: 400;
   line-height: 24px;
   color: #626262;
 }
-
+li a {
+  color: #626262;
+}
 .wrapper {
   width: 900px;
   margin: 0 auto;
